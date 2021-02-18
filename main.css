@@ -233,7 +233,7 @@ body, html {
 .port-box1:hover, .port-box2:hover, .port-box3:hover, .port-box4:hover,.port-box5:hover{
   opacity: 1;
 }
-.port-box1,.port-box2,.port-box3,.port-box4,.port-box5{
+.port-box1,.port-box2,.port-box3,.port-box4,.port-box5,.port-box6{
   text-align: center;
   grid-column: 1 / span 3 ;
   
@@ -260,6 +260,9 @@ body, html {
 }
 .port-box5{
   grid-row: 5;
+}
+.port-box6{
+  grid-row: 6;
 }
 .port-img{
   margin: 1rem auto;
